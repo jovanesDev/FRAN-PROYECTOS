@@ -1,0 +1,35 @@
+
+body {
+    background-color: #232323;
+    color: #fff;
+}
+
+.title{ 
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.message-container {
+    color: #fff;
+    text-align: center;
+    margin: 40px 0;
+    width: 100%;
+    font-size: 40px;
+}
+
+.square {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    margin: 2px;
+    background-color: #232323;
+    transition: 0.5s all ease;
+}
+
+.container {
+
+    max-width: 600px;
+    margin: 0 auto;
+}
